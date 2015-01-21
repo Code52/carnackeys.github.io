@@ -588,7 +588,7 @@ dd p:first-child {
 
 .button {
   width: 200px;
-  margin: 150px auto;
+  margin: 50px auto;
 }
 
 .button a {
@@ -624,7 +624,7 @@ dd p:first-child {
           box-shadow: 2px 2px 8px rgba(0,0,0,0.2);
 }
 
-p {
+.button a p {
   background: #222;
   display: block;
   height: 40px;
