@@ -574,10 +574,6 @@ dd p:first-child {
   because i'm lazy and the demo looked cool, let's see if it even works here
  */
 
- * {
-  padding: 0;
-  margin: 0;
-}
 
 #header {
   height: 25px;
