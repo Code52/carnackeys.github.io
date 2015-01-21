@@ -584,7 +584,7 @@ dd p:first-child {
 
 .button {
   width: 200px;
-  margin: 50px auto;
+  margin: 50px auto 20px;
 }
 
 .button a {
